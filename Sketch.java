@@ -1,5 +1,8 @@
 import processing.core.PApplet;
-
+  /**
+  * A program that draws a human face
+  * @author: A. Razack
+  */
 public class Sketch extends PApplet {
 	
 	
